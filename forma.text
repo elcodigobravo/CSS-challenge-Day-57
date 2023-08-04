@@ -1,0 +1,68 @@
+.forma .side-1 {
+    transform: translateZ(129.2px) rotateZ(90deg) rotateX(159.095deg);
+  }
+  .forma .side-2 {
+    transform: translateZ(129.2px) rotateZ(-90deg) rotateX(159.095deg);
+  }
+  .forma .side-3 {
+    transform: translateZ(-129.2px) rotateZ(90deg) rotateX(-159.095deg);
+  }
+  .forma .side-4 {
+    transform: translateZ(-129.2px) rotateZ(-90deg) rotateX(-159.095deg);
+  }
+  .forma .side-5 {
+    transform: rotateY(-90deg) translateZ(129.2px) rotateX(20.905deg);
+  }
+  .forma .side-6 {
+    transform: rotateY(-90deg) translateZ(129.2px) rotateX(159.095deg);
+  }
+  .forma .side-7 {
+    transform: rotateY(-90deg) translateZ(-129.2px) rotateX(-20.905deg);
+  }
+  .forma .side-8 {
+    transform: rotateY(-90deg) translateZ(-129.2px) rotateX(-159.095deg);
+  }
+  .forma .side-9 {
+    transform: translateY(129.2px) rotateX(69.095deg);
+  }
+  .forma .side-10 {
+    transform: translateY(129.2px) rotateX(-69.095deg);
+  }
+  .forma .side-11 {
+    transform: translateY(-129.2px) rotateX(110.905deg);
+  }
+  .forma .side-12 {
+    transform: translateY(-129.2px) rotateX(-110.905deg);
+  }
+  .forma .side-13 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(-129.2px) translateX(80px) rotateX(-135deg) rotateY(-35.264deg) rotateZ(-8deg);
+  }
+  .forma .side-14 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(-129.2px) translateX(80px) rotateX(135deg) rotateY(35.264deg) rotateZ(-8deg);
+  }
+  .forma .side-15 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(-129.2px) translateX(-80px) rotateX(-135deg) rotateY(35.264deg) rotateZ(8deg);
+  }
+  .forma .side-16 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(-129.2px) translateX(-80px) rotateX(135deg) rotateY(-35.264deg) rotateZ(8deg);
+  }
+  .forma .side-17 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(129.2px) translateX(80px) rotateX(45deg) rotateY(-35.264deg) rotateZ(-8deg);
+  }
+  .forma .side-18 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(129.2px) translateX(80px) rotateX(-45deg) rotateY(35.264deg) rotateZ(-8deg);
+  }
+  .forma .side-19 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(129.2px) translateX(-80px) rotateX(45deg) rotateY(35.264deg) rotateZ(8deg);
+  }
+  .forma .side-20 {
+    border-width: 138.56px 80px 0 80px;
+    transform: translateY(129.2px) translateX(-80px) rotateX(-45deg) rotateY(-35.264deg) rotateZ(8deg);
+  }
